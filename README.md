@@ -31,7 +31,7 @@
 ##Specifications
 * Movies will be saved to a SQLite database. 
 # Note: 
-> “Ask Me Later” does not need to be saved.
+> If “Ask Me Later” is checked does not need to be saved.
 
 
 > For installation and other instructions read the Readme file inside ReadMe folder. 
