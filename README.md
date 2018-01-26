@@ -34,3 +34,4 @@
 > “Ask Me Later” does not need to be saved.
 
 
+> For installation and other instructions read the Readme file inside ReadMe folder. 
