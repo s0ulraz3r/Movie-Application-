@@ -22,13 +22,13 @@
 
 * Save and Cancel icons on the action bar of the Add/Edit activity provides user to save or cancel the changes.
 
-##Operation
+## Operation
 * Switching to a new tab will show the list of movies sorted by the selected criteria.
 * Clicking the “add” icon will start the Add/Edit activity to add a new movie.
 * Clicking an item in a ListView will start the Add/Edit activity to edit that movie’s details.
 * If the “Ask Me Later” button is checked when a movie is saved, a notification reminding the user to rate the movie will be sent to the user. The notification will have a PendingIntent for the Add/Edit activity.
 
-##Specifications
+## Specifications
 * Movies will be saved to a SQLite database. 
 # Note: 
 > For installation and other instructions read the Readme file inside ReadMe folder. 
