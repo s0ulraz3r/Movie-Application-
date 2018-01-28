@@ -32,3 +32,7 @@
 * Movies will be saved to a SQLite database. 
 # Note: 
 > For installation and other instructions read the Readme file inside ReadMe folder. 
+
+
+Project assgined By: Prof Avery
+Project Developed By: Varun Krishna
