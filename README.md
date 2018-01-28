@@ -34,5 +34,5 @@
 > For installation and other instructions read the Readme file inside ReadMe folder. 
 
 
-Project assgined By: Prof Avery.
-Project Developed By: Varun Krishna.
+##### Project assgined By: Prof Avery.
+##### Project Developed By: Varun Krishna.
